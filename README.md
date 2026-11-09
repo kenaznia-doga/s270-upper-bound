@@ -47,4 +47,4 @@ Started from the registry's current n = 270 packing (Evan Daniel (found_by), in 
 
 The search was AI-assisted throughout (an AI agent wrote and ran the search and the checks); the checks above were run by code that did not produce the packing. Doğa directed the work.
 
-The best public Kaggle per-puzzle side we found for 270 is 16.928162252213 (kirilltym), above ours.
+The best public Kaggle per-puzzle side we found for 270 is 16.928162252213 (kirilltym), above ours. The Kaggle per-puzzle leaderboard also lists an unpublished side-only entry for 270, 16.9273142164 (team Cats and boxes 😼, 2026-10-27), smaller than ours; it states no packing, we cannot verify it and make no claim about it. This is the best published packing with a certificate, not the smallest side anyone has scored.
